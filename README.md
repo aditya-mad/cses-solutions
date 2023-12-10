@@ -1,2 +1,2 @@
 # cses-solutions
-My solutions to cses problems I solved
+Welcome to my CSES Solutions repository! Here, you'll find solutions to various problems I've solved on CSES.
